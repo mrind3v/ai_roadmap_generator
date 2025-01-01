@@ -1,0 +1,13 @@
+{
+      "name": "ai-roadmap-generator",
+      "scripts": {
+            "dev": "vite"
+      },
+      "dependencies": {
+            "marked": "^9.1.0",
+            "openai": "^4.77.0"
+      },
+      "devDependencies": {
+            "vite": "^4.5.5"
+      }
+}
